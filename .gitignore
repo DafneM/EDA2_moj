@@ -35,6 +35,8 @@
 *.i*86
 *.x86_64
 *.hex
+*.executable
+*.exec
 
 # Debug files
 *.dSYM/
@@ -53,3 +55,7 @@ dkms.conf
 
 *.exec
 .exec
+exec
+/executable
+/exec
+/exec.
